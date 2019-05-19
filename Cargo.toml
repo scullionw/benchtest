@@ -1,0 +1,13 @@
+[package]
+name = "benchtest"
+version = "0.1.0"
+authors = ["scullionw <williamscullion@gmail.com>"]
+edition = "2018"
+license = "MIT"
+readme = "README.md"
+description = "Macro for benching and testing simple functions"
+repository = "https://github.com/scullionw/benchtest"
+keywords = ["bench", "test", "euler", "adventofcode"]
+categories = ["development-tools"]
+
+[dependencies]
